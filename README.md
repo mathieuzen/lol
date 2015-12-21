@@ -80,16 +80,13 @@ Remember to change 'test' for the name of the summoner you are searching.
 ```
 
 # Screenshots
-
-![](http://i.imgur.com/LXSlNVK.jpg)
-![](http://i.imgur.com/hqbhwps.jpg)
-![](http://i.imgur.com/Z7b1PqC.jpg)
-![](http://i.imgur.com/k7Y9uhB.jpg)
-![](http://i.imgur.com/817Vuys.jpg)
-![](http://i.imgur.com/GfKEyTE.jpg)
-![](http://i.imgur.com/ZHOzTZA.jpg)
-![](http://i.imgur.com/eYRFMlY.jpg)
-![](http://i.imgur.com/jPTRiqJ.jpg)
-![](http://i.imgur.com/zqq3mBO.jpg)
-![](http://i.imgur.com/uHuBn2h.jpg)
-![](http://i.imgur.com/ymBSpIG.jpg)
+|   |   |   |
+|:---:|:---:|:---:|
+|<img src="http://i.imgur.com/LXSlNVK.jpg" width="275">|<img src="http://i.imgur.com/hqbhwps.jpg" width="275">|<img src="http://i.imgur.com/Z7b1PqC.jpg" width="275">|
+|Language|Intro|Help|
+|<img src="http://i.imgur.com/k7Y9uhB.jpg" width="275">|<img src="http://i.imgur.com/817Vuys.jpg" width="275">|<img src="http://i.imgur.com/GfKEyTE.jpg" width="275">|
+|Champions|Champion's info|Champion's info 2|
+|<img src="http://i.imgur.com/ZHOzTZA.jpg" width="275">|<img src="http://i.imgur.com/eYRFMlY.jpg" width="275">|<img src="http://i.imgur.com/jPTRiqJ.jpg" width="275">|
+|Champion's extra|Summoner|Skin|
+|<img src="http://i.imgur.com/zqq3mBO.jpg" width="275">|<img src="http://i.imgur.com/uHuBn2h.jpg" width="275">|<img src="http://i.imgur.com/ymBSpIG.jpg" width="275">|
+|Sales|Match blue team|Match red team|
